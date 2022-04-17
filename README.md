@@ -1,9 +1,9 @@
 # Website Under Development
 ## SSSVJ Activity Resources
 <div align="center">
-<i>A [schooling] which does not confer the knowledge of the Spiritual Reality to the students who are engaged in the pursuit of various material studies, is as barren as the sky without the moon, or a heart without peace, or a nation without reference to law.</i>
+<i>A [schooling] which does not confer the knowledge of the Spiritual Reality to the students who are engaged in the pursuit of various material studies, is as barren as the sky without the moon, or a heart without peace, or a nation without reference to law.</i><br/><br/>
 
-**- Sri Sathya Sai Baba**
+<b>- Sri Sathya Sai Baba</b>
 </div>
 
 Loving Sairam,
